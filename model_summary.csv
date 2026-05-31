@@ -1,0 +1,7 @@
+Model,Type,Accuracy (%),Best For
+MobileNetV2,Transfer Learning,91.3,✅ Small datasets
+Random Forest,Classical ML,75.0,Interpretability
+SVM,Classical ML,62.5,Fast inference
+EfficientNetB0,Transfer Learning,34.0,Large datasets
+Custom CNN,Deep Learning,26.09,Baseline
+ResNet50,Transfer Learning,18.0,Large datasets
